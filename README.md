@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?down_message=Offline&label=codetheworld.io&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fcodetheworld.io)](https://codetheworld.io)
 [![n8n-nodes-chatwork](https://img.shields.io/npm/v/n8n-nodes-chatwork?label=n8n-nodes-chatwork&style=for-the-badge)](https://www.npmjs.com/package/n8n-nodes-chatwork)
 
-[![Linkedin: hoangdv](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=HoangDing&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangdv/)](https://www.linkedin.com/in/hoangdv/)
+[![Linkedin: hoangdv](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=HoangDinh&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangdv/)](https://www.linkedin.com/in/hoangdv/)
 
 
 <p><em>Software Developer at Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
