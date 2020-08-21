@@ -1,17 +1,18 @@
 ### Hi there, I'm Hoang - aka [hoangsetup](website) 👋
 
-[![Stackoverflow](https://stackoverflow.com/users/flair/5196394.png)](https://stackoverflow.com/users/5196394/hoangdv?tab=profile)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Top%200.90%25%20this%20year-orange?label=@hoangdv&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/5196394/hoangdv?tab=profile)
 
-[![Website](https://img.shields.io/website?down_message=Offline&label=codetheworld.io&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fcodetheworld.io)](https://codetheworld.io)
-[![n8n-nodes-chatwork](https://img.shields.io/npm/v/n8n-nodes-chatwork?label=n8n-nodes-chatwork&style=for-the-badge)](https://www.npmjs.com/package/n8n-nodes-chatwork)
+[![Linkedin: hoangdv](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=HoangDinh&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoangdv/)
 
-[![Linkedin: hoangdv](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=HoangDinh&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangdv/)](https://www.linkedin.com/in/hoangdv/)
+[![Website](https://img.shields.io/website?down_message=Offline&label=codetheworld.io&style=for-the-badge&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Fcodetheworld.io)](https://codetheworld.io)
 
+[![n8n-nodes-chatwork](https://img.shields.io/npm/v/n8n-nodes-chatwork?label=n8n-nodes-chatwork&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/n8n-nodes-chatwork)
 
-<p><em>Software Developer at Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Backend Software Developer at Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -40,6 +41,16 @@ const hoangdv: IProfile = {
 };
 ```
 
-### :zap: Github Stats
+<details>
+  <summary>:zap: Stackoverflow Stats </summary>
+  <a href="https://stackoverflow.com/users/5196394/hoangdv?tab=profile">
+    <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=5196394"/>
+  </a>
+ </details>
 
-<img align="left" alt="hoangdv's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hoangsetup&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Github Stats </summary>
+  <img align="left" alt="hoangdv's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsetup" />
+  <img align="right" alt="hoangdv's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hoangsetup&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true" />
+  <p></p>
+ </details>
