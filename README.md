@@ -22,7 +22,7 @@ const hoangdv: IProfile = {
     code: ["Java", "JavaScript", "TypeScript", "php", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "cat"],
     technologies: {
-        mobileApp: ["Flutter"],
+        mobileApp: ["Java", "Flutter"],
         frontEnd: {
             js: ["Angular", "React"],
             css: ["materialize", "ant-design", "bootstrap"]
