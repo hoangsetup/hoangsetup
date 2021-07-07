@@ -19,7 +19,7 @@
 ```typescript
 const hoangdv: IProfile = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "php", "Dart"],
+    code: ["Java", "JavaScript", "TypeScript", "php", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "cat"],
     technologies: {
         mobileApp: ["Flutter"],
